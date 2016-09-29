@@ -1,1 +1,1 @@
-# amarisband
+# Amaris
